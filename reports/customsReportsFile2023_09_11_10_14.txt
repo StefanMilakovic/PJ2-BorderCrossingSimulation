@@ -1,0 +1,10 @@
+false,ZA789DDE,ck: Kamion ne moze preci granicu(carina). Deklarisana masa tereta: 15.66730134696681. Stvarna masa tereta: 20.367491751056853
+true,SD678WW,c1: Izbacen putnik(carina): Predrag Lukic (ID: 2499) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,SD678WW,c1: Izbacen putnik(carina): Bozidar Ciric (ID: 2690) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,SM567ZZ,c1: Izbacen putnik(carina): Miroslav Peric (ID: 1586) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,ZA890AAB,c1: Izbacen putnik(carina): Jovanka Popovic (ID: 2282) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,RA234YY,c1: Izbacen putnik(carina): Petar Stevanovic (ID: 8715) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,RA234YY,c1: Izbacen putnik(carina): Jovana Rankovic (ID: 3040) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,RA234YY,c1: Izbacen putnik(carina): Bojana Ilic (ID: 3584) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,RA234YY,c1: Izbacen putnik(carina): Ivana Vukovic (ID: 4088) zbog posjedovanja nedozvoljenih stvari u koferu.
+false,PI234IIJ,ck: Kamion ne moze preci granicu(carina). Deklarisana masa tereta: 13.124852547538621. Stvarna masa tereta: 17.06230831180021

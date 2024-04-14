@@ -1,0 +1,5 @@
+true,SD678WW,c1: Izbacen putnik(carina): Slobodan Matic (ID: 7451) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,SD678WW,c1: Izbacen putnik(carina): Vlada Cvetkovic (ID: 6898) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,ZA890AAB,c1: Izbacen putnik(carina): Slavica Jovancic (ID: 9142) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,ZA890AAB,c1: Izbacen putnik(carina): Dejan Stankovic (ID: 4308) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,ZA890AAB,c1: Izbacen putnik(carina): Radomir Radovanovic (ID: 1479) zbog posjedovanja nedozvoljenih stvari u koferu.

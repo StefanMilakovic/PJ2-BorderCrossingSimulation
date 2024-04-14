@@ -1,0 +1,16 @@
+true,SD678WW,c1: Izbacen putnik(carina): Dusan Cvetkovic (ID: 7939) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,SD678WW,c1: Izbacen putnik(carina): Djordje Popovic (ID: 5626) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,SD678WW,c1: Izbacen putnik(carina): Nevena Jelic (ID: 6183) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,SD678WW,c1: Izbacen putnik(carina): Luka Kovacevic (ID: 2758) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,SM567ZZ,c1: Izbacen putnik(carina): Anica DJordjevic (ID: 2998) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,SM567ZZ,c1: Izbacen putnik(carina): Draginja Popovic (ID: 9135) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,SM567ZZ,c1: Izbacen putnik(carina): Miroslav Maksimovic (ID: 4884) zbog posjedovanja nedozvoljenih stvari u koferu.
+false,ZA901HHI,ck: Kamion ne moze preci granicu(carina). Deklarisana masa tereta: 6.558900419417837. Stvarna masa tereta: 8.526570545243189
+false,ZA789DDE,ck: Kamion ne moze preci granicu(carina). Deklarisana masa tereta: 13.189196938166187. Stvarna masa tereta: 17.145956019616044
+false,KG678GGH,ck: Kamion ne moze preci granicu(carina). Deklarisana masa tereta: 0.5017154951816094. Stvarna masa tereta: 0.6522301437360922
+true,ZA890AAB,c1: Izbacen putnik(carina): Luka Maksimovic (ID: 5060) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,ZA890AAB,c1: Izbacen putnik(carina): Anamarija Tomic (ID: 2479) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,ZA890AAB,c1: Izbacen putnik(carina): Anica Knezevic (ID: 7349) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,CA901XX,c1: Izbacen putnik(carina): Marija Jevtic (ID: 1573) zbog posjedovanja nedozvoljenih stvari u koferu.
+true,CA901XX,c1: Izbacen putnik(carina): Kristina DJukic (ID: 1968) zbog posjedovanja nedozvoljenih stvari u koferu.
+false,NS345FFG,ck: Kamion ne moze preci granicu(carina). Deklarisana masa tereta: 9.092332030464934. Stvarna masa tereta: 11.820031639604416
